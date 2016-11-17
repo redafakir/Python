@@ -155,3 +155,4 @@ print(
 print(liste[2:])
 
 #"https://github.com/redafakir/Python.git"
+#aficher a git
